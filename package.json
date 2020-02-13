@@ -1,0 +1,9 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "Express test server",
+  "main": "index.js",
+  "repository": "git@github.com:ETLopes/express-api.git",
+  "author": "Eduardo Lopes",
+  "license": "MIT"
+}
